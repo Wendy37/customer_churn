@@ -9,7 +9,7 @@
 - using Logistic Regression and Decision Trees methods to build predictive models.
 
 ## dataset
-- _Customer_churn.csv_ and _Customer_churn.xlsx_ are same datasets with different format.
+- _Customer_Churn.csv_ and _Customer_Churn.xlsx_ are same datasets with different format.
 
 ## author
 - Wendi Tan
