@@ -127,7 +127,7 @@ def tree_fitting(df, y):
 
 if __name__ == '__main__':
     df = pd.read_csv("Customer_Churn.csv")
-    df.dropna(axis=0)  # handling missing data, case-wise deletion
+    df = df.dropna(axis=0)  # handling missing data, case-wise deletion
     y = df.iloc[:, -1]
     y = pd.get_dummies(y)
     y = y.drop('STAY', axis=1)  # y
