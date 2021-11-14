@@ -8,6 +8,9 @@
 - _prediction.py_
 - using Logistic Regression and Decision Trees methods to build predictive models.
 
+## k-means clustering
+- _k_means.py_
+
 ## dataset
 - _Customer_Churn.csv_ and _Customer_Churn.xlsx_ are same datasets with different format.
 
